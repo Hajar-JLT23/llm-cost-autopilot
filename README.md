@@ -357,7 +357,7 @@ git clone https://github.com/Hajar-JLT23/llm-cost-autopilot.git
 cd llm-cost-autopilot
 ```
 
-Replace `YOUR_USERNAME` with the actual GitHub username of the repository owner.
+
 
 ### Step 5 — Create a Python Virtual Environment
 
